@@ -2,3 +2,7 @@ django
 django-admin-adminlte
 mysql
 Pillow
+django-bootstrap-datepicker-plus
+plotify
+spicy
+pandas
